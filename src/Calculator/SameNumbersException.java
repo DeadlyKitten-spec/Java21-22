@@ -1,4 +1,4 @@
-package Julia;
+package Calculator;
 
 public class SameNumbersException extends Exception{
     public void Error(){

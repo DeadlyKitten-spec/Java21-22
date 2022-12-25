@@ -1,4 +1,4 @@
-package Julia;
+package Calculator;
 
 public class NumbersOutOfRangeException extends Exception{
     public void Error(){

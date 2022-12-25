@@ -1,4 +1,4 @@
-package Julia;
+package Calculator;
 
 public class DivisionByZeroException extends Exception{
     public void Error(){

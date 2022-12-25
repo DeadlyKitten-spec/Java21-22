@@ -1,4 +1,4 @@
-package Julia;
+package Calculator;
 
 import java.util.Scanner;
 
